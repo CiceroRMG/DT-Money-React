@@ -15,6 +15,22 @@
             "price": 250,
             "category": "Mercado",
             "createdAt": "2024-10-05T18:55:25.089Z"
+        },
+        {
+            "id": "3",
+            "description": "Cigarro",
+            "type": "outcome",
+            "price": 25,
+            "category": "Saúde",
+            "createdAt": "2024-09-05T18:55:25.089Z"
+        },
+        {
+            "id": "4",
+            "description": "Tigrinho",
+            "type": "outcome",
+            "price": 6000,
+            "category": "Investimento",
+            "createdAt": "2024-10-05T18:55:25.089Z"
         }
     ]
 }

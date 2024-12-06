@@ -1,36 +1,68 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Frella Cafeteria",
-            "type": "income",
-            "price": 14000,
-            "category": "Venda",
-            "createdAt": "2024-12-05T18:55:25.089Z"
-        },
-        {
-            "id": 2,
-            "description": "Banana Master",
-            "type": "outcome",
-            "price": 250,
-            "category": "Mercado",
-            "createdAt": "2024-10-05T18:55:25.089Z"
-        },
-        {
-            "id": 3,
-            "description": "Cigarro",
-            "type": "outcome",
-            "price": 25,
-            "category": "Saúde",
-            "createdAt": "2024-09-05T18:55:25.089Z"
-        },
-        {
-            "id": 4,
-            "description": "Tigrinho",
-            "type": "outcome",
-            "price": 6000,
-            "category": "Investimento",
-            "createdAt": "2024-10-05T18:55:25.089Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Frella Cafeteria",
+      "type": "income",
+      "price": 14000,
+      "category": "Venda",
+      "createdAt": "2024-12-05T18:55:25.089Z"
+    },
+    {
+      "id": 2,
+      "description": "Banana Master",
+      "type": "outcome",
+      "price": 250,
+      "category": "Mercado",
+      "createdAt": "2024-10-05T18:55:25.089Z"
+    },
+    {
+      "id": 3,
+      "description": "Cigarro",
+      "type": "outcome",
+      "price": 25,
+      "category": "Saúde",
+      "createdAt": "2024-09-05T18:55:25.089Z"
+    },
+    {
+      "id": 4,
+      "description": "Tigrinho",
+      "type": "outcome",
+      "price": 6000,
+      "category": "Investimento",
+      "createdAt": "2024-10-05T18:55:25.089Z"
+    },
+    {
+      "description": "Lanche",
+      "category": "Comida",
+      "price": 26,
+      "type": "outcome",
+      "createdAt": "2024-12-06T17:19:27.888Z",
+      "id": 5
+    },
+    {
+      "description": "Iphone 15",
+      "category": "Eletronicos",
+      "price": 6500,
+      "type": "outcome",
+      "createdAt": "2024-12-06T17:20:36.424Z",
+      "id": 6
+    },
+    {
+      "description": "Aulas",
+      "category": "Trabalho",
+      "price": 2685,
+      "type": "income",
+      "createdAt": "2024-12-06T17:21:12.039Z",
+      "id": 7
+    },
+    {
+      "description": "Churras",
+      "category": "Comida",
+      "price": 152,
+      "type": "outcome",
+      "createdAt": "2024-12-06T17:59:06.141Z",
+      "id": 8
+    }
+  ]
 }
